@@ -29,6 +29,6 @@ wrongly recognizes two swipes in a row.
 </script>
 ```
 
-Take a look at https://github.com/ngryman/leap-impress/example.
+Take a look at https://github.com/ngryman/leap-impress/tree/master/example.
 
 [Impress.js]: https://github.com/bartaz/impress.js
