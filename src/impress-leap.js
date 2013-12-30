@@ -14,7 +14,7 @@
 			transitioning = false;
 		});
 
-		Leap.loop({ enableGestures:true }, function(e) {
+		Leap.loop({ enableGestures: true }, function(e) {
 			if (transitioning) return;
 
 			var gesture = e.gestures[0];
@@ -32,4 +32,5 @@
 			init: init
 		}
 	}
+	
 }(window);
