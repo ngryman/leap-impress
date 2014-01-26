@@ -21,7 +21,7 @@ wrongly recognizes two swipes in a row.
 
 ```html
 <script src="js/impress.js"></script>
-<script src="//js.leapmotion.com/0.2.0-beta1/leap.min.js"></script>
+<script src="//js.leapmotion.com/0.3.0-beta3/leap.min.js"></script>
 <script src="../src/impress-leap.js"></script>
 <script>
     impress().init();
